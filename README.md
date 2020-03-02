@@ -1,2 +1,2 @@
 # flutter_blur
- 探究设计到底要的是哪种blur效果
+ 给设计调blur效果值
